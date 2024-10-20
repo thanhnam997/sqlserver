@@ -107,7 +107,7 @@ WHERE ProductName = 'Chocolate Ice Cream';
     - Saint Paul as the city
 */
  INSERT INTO Suppliers (SupplierID, CompanyName, ContactName, ContactTitle, Address, City)
-VALUES (30, 'Example School', 'John Doe', 'Manager', '123 Sesame Street', 'Saint Paul');
+VALUES (30, 'ANOKA', 'Maria', 'Manager', '888 84th Street', 'Saint Paul');
 /*
 11. Display the new record that you created in the suppliers
     table to ensure it was inserted correctly.
